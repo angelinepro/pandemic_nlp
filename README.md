@@ -1,0 +1,3 @@
+# pandemic_nlp
+
+This repo contains code for a Natural Language Processing project to explore and understand differences in official communications between Governor Cuomo and Mayor de Blasio during the Covid-19 pandemic. Methods include web scraping, parts of speech analysis, topic modeling, and sentiment analysis. Slides from an accompanying talk at the Taiwanese Data Professionals Meetup on July 23, 2020 to be posted, along with a link to a blog post on www.angelineprotacio.com (coming soon). 
